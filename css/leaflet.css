@@ -509,7 +509,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	}
 .leaflet-popup-content-wrapper,
 oleaflet-popup-tip {
-	background: rgba(0,149,224,0.9);
+	background: rgba(166,1,1,0.9);
 	color: white;
 	font: 15px/16px dax;
 	box-shadow: 0 5px 10px rgba(0,0,0,0.4);
